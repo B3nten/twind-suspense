@@ -1,0 +1,16 @@
+{
+  "imports": {
+    "react": "https://esm.sh/react@18.2.0",
+    "react/": "https://esm.sh/react@18.2.0/",
+    "react-dom": "https://esm.sh/react-dom@18.2.0",
+    "react-dom/server": "https://esm.sh/react-dom@18.2.0/server",
+    "react-dom/client": "https://esm.sh/react-dom@18.2.0/client",
+
+    "twind": "https://esm.sh/twind@0.16.17",
+    "twind/sheets": "https://esm.sh/twind@0.16.17/sheets",
+
+    "@tanstack/react-query": "https://esm.sh/@tanstack/react-query@4.2.3",
+
+    "ultra/": "https://deno.land/x/ultra@v2.0.0-alpha.18/"
+  }
+}
